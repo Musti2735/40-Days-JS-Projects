@@ -1,4 +1,4 @@
-TR ----- Artırma, eksiltme ve resetleme
+TR ----- Butona tıklandığında artırma, eksiltme veya resetleme yapan uygulama
 
 
-EN ----- Increment, decrement and reset
+EN ----- Application that increments, decrements or resets when the button is clicked
