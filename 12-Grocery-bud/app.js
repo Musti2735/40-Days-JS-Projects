@@ -78,8 +78,6 @@ function addItem(e){
 
 
 }
-
-
 // display alert
 function displayAlert(text, action){ //iki parametre verdik. biri metin içeriği, diğeri alart'ın türü 
     alert.textContent=text;  //alert metinini parametre olarak verilen text olarak atadık

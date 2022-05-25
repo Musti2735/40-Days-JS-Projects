@@ -1,0 +1,1 @@
+Butona tıklandığında fotoğraflar arası geçiş yapan uygulama
