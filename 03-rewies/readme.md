@@ -1,9 +1,4 @@
-TR -----
-Liste içinde tanımlanan objelerin buton tıklandığında artarak, azalarak veya random olarak değişmesini sağlayan uygulama.
 
-Projenin tamamlanmış hali linkten açılabilir.
-https://hilarious-cupcake-0198c4.netlify.app/
+<h4>An application that allows the objects defined in the list to increase, decrease or change randomly when the button is clicked.</h4>
 
-EN -----
-An application that allows the objects defined in the list to increase, decrease or change randomly when the button is clicked.
-The completed version of the project can be opened from the link.https://hilarious-cupcake-0198c4.netlify.app/
+<p>The completed version of the project can be opened <a href="https://hilarious-cupcake-0198c4.netlify.app/"><b>here</b></a>.</p>
