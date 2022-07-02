@@ -1,9 +1,7 @@
-TR ----- Toggle ile açılır kapanır sidebar yapımı
-Projenin tamamlanmış hali linkten açılabilir.
-https://enchanting-sawine-ec15cd.netlify.app/
+<h4>Side Bar</h4>
 
+<p>Making collapsible sidebar with toggle</p>
 
-EN ----- Making collapsible sidebar with toggle
-The completed version of the project can be opened from the link.
-https://enchanting-sawine-ec15cd.netlify.app/
+<p>The completed version of the project can be opened <a href="https://enchanting-sawine-ec15cd.netlify.app/"><b>here</b></a>.</p>
+
 
