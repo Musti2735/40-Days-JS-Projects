@@ -57,9 +57,9 @@ const menu = [
   },
   {
     id: 8,
-    title: "american classic",
+    title: "Turkish classic",
     category: "lunch",
-    price: 12.99,
+    price: 10.00,
     img: "./images/item-8.jpeg",
     desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
   },
