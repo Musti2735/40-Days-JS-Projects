@@ -61,7 +61,7 @@ const menu = [
     category: "lunch",
     price: 10.00,
     img: "./images/item-8.jpeg",
-    desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+    desc: `on it tumblr kickstarter thundercats migas everyday carry squid.. palo santo leggings. Food truck truffaut  `,
   },
   {
     id: 9,
